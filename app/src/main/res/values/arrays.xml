@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Scope for LSPosed - hook into system SMS process -->
+    <string-array name="xposed_scope">
+        <item>com.android.providers.telephony</item>
+        <item>com.android.mms</item>
+        <item>com.android.messaging</item>
+        <item>com.samsung.android.messaging</item>
+        <item>com.google.android.apps.messaging</item>
+    </string-array>
+</resources>

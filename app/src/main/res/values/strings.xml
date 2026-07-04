@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">短信转发器</string>
+    <string name="xposed_description">将短信转发到网关服务器</string>
+    <string name="settings_title">短信转发设置</string>
+    <string name="gateway_url">网关地址</string>
+    <string name="gateway_token">API 密钥</string>
+    <string name="forward_enabled">启用转发</string>
+    <string name="save_settings">保存设置</string>
+    <string name="test_connection">测试连接</string>
+    <string name="connection_success">连接成功！</string>
+    <string name="connection_failed">连接失败：</string>
+    <string name="settings_saved">设置已保存</string>
+    <string name="module_not_active">模块未在 LSPosed 中激活</string>
+</resources>
